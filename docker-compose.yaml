@@ -7,11 +7,11 @@ services:
     environment:
       NEXT_PUBLIC_BASE_URL: "http://localhost.com:3000/"
       #Firebase configs below
-      API_KEY: ""
-      AUTH_DOMAIN: ""
-      PROJECT_ID: ""
-      STORAGE_BUCKET: ""
-      MESSAGING_SENDER_ID: ""
-      APP_ID: ""
-      MEASUREMENT_ID: ""
+      API_KEY: "AIzaSyA7BlUppDdnCHxrH5DwYX0yBhQh5leJoVI"
+      AUTH_DOMAIN: "magbit-ondebaixo4k.firebaseapp.com"
+      PROJECT_ID: "magbit-ondebaixo4k"
+      STORAGE_BUCKET: "magbit-ondebaixo4k.appspot.com"
+      MESSAGING_SENDER_ID: "536546679385"
+      APP_ID: "1:536546679385:web:1f66bf948a13c71203af48"
+      MEASUREMENT_ID: "G-2V6J3RX9WN"
 
